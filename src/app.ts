@@ -1,0 +1,1 @@
+console.log('Onde foi testado todos os arquivo de resposta.')
